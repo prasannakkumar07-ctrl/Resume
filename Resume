@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prasanna - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 0;
+      background-color: #f9f9f9;
+    }
+    .resume {
+      width: 700px;
+      margin: auto;
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 5px;
+    }
+    h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+      margin-top: 20px;
+    }
+    p {
+      line-height: 1.5;
+    }
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="resume">
+    <h1>Prasanna</h1>
+    <p style="text-align:center;"><strong>Bachelor of Computer Applications Student</strong></p>
+
+    <h2>Personal Information</h2>
+    <p><strong>College:</strong> TJS College of Arts and Science</p>
+    <p><strong>Year of Study:</strong> 2nd Year</p>
+    <p><strong>Ambition:</strong> To become a Police Officer</p>
+
+    <h2>Education</h2>
+    <p><strong>Bachelor of Computer Applications (BCA)</strong></p>
+    <p>TJS College of Arts and Science</p>
+    <p>Currently pursuing (2nd Year)</p>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Proficient knowledge in coding</li>
+      <li>Strong problem-solving ability</li>
+      <li>Teamwork and leadership through sports</li>
+    </ul>
+
+    <h2>Achievements & Activities</h2>
+    <ul>
+      <li>Active volleyball player</li>
+      <li>Participated in cultural and sports activities</li>
+    </ul>
+
+    <h2>Career Objective</h2>
+    <p>To pursue a career in public service and achieve my ambition of becoming a Police Officer while continuing to build strong technical and personal skills.</p>
+  </div>
+</body>
+</html>
